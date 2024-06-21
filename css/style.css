@@ -25,3 +25,16 @@ p{
     padding-left: 2rem;
     padding-right: 2rem;
 }
+
+*{
+    color: rgb(249, 255, 255);
+}
+
+h3{
+    color: rgb(165, 165, 165);
+}
+
+.seperator{
+    border-bottom: 2px solid rgb(165, 165, 165); 
+    padding: 20px;
+}
